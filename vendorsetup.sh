@@ -1,1 +1,1 @@
-add_lunch_combo omni_iphone7,1-eng
+add_lunch_combo omni_d11-eng

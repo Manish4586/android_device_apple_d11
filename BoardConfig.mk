@@ -1,4 +1,4 @@
-DEVICE_TREE := device/apple/iphone_7.1
+DEVICE_TREE := device/apple/d11
 
 # Bootloader
 TARGET_NO_BOOTLOADER := true

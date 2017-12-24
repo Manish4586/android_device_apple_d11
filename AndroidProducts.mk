@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_iphone.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_d11.mk

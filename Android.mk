@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-ifneq ($(filter iphone7,1,$(TARGET_DEVICE)),)
+ifneq ($(filter d11,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := $(call my-dir)
 
