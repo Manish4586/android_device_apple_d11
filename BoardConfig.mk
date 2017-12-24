@@ -1,7 +1,7 @@
 DEVICE_TREE := device/apple/d11
 
 # Bootloader
-TARGET_NO_BOOTLOADER := true
+TARGET_MAGDLR_BOOTLOADER := true
 TARGET_BOOTLOADER_BOARD_NAME := a10_fusion
 
 # Platform
